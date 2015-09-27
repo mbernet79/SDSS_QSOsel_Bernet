@@ -5,7 +5,7 @@
 %Please check the readme.txt file for the applicability of the algorithm and its
 %restrictions
 %
-%Please cite Murphy, M.T., Bernet, M.L. ApJ,....(2015) if you use this code
+%Please cite Murphy, M.T., Bernet, M.L., 2015, MNRAS, submitted, if you use this code
 %Comments or reports of errors are welcome. Email: bernet.martin@gmail.com
 
 

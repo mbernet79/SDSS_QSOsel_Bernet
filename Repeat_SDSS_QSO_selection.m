@@ -7,7 +7,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %Here we provide the data (List_QSO_paperMMMB_TARGETmag_coord.txt), which we used in 
-%Murphy, M.T., Bernet, M.L. ApJ ... (2015) to test for a dust bias
+%(Murphy, M.T., Bernet, M.L., 2015, MNRAS, submitted) to test for a dust bias
 
 %The file List_QSO_DR7_total_TARGET.txt contains the full SDSS QSO DR7 sample
 %as published in Schneider D. P. et al., 2010, AJ, 139, 2360
